@@ -1,6 +1,6 @@
 # Adidas Analysis
 
-![./public/power_bi_img.png]
+![image](https://github.com/RaynaLin/Adidas-data-Analytics/blob/c042a964bdb65e5da838ee359b9c24daa862db17/power_bi_img.png)
 
 ## About Data
 An Adidas sales dataset is a collection of data that includes information on the sales of Adidas products. This type of dataset may include details such as the number of units sold, the total sales revenue, the location of the sales, the type of product sold, and any other relevant information.
