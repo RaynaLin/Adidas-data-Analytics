@@ -13,3 +13,10 @@ There are a variety of sources that could potentially provide an Adidas sales da
 ## Requirement
  - Python 3
  - matplotlib 3.7.0
+
+## Problem-solving：
+ - Sales Performance: Which products performed well in sales in 2020 and 2021, and which ones underperformed?
+ - Regional Market Analysis: Which stores demonstrated strong sales in 2020/2021, and which ones lagged behind?
+ - Efficiency of Sales Channels: Which sales method is more effective, in-store sales or online sales?
+ - Price Analysis: Is there a specific price range that achieves better sales than others?
+ - Optimization of Product Mix: Identify the most profitable products and segment them by location.
